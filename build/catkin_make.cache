@@ -1,0 +1,2 @@
+aruco_recognition:kinova_description:kinova_moveit:plannar_mover/plannar_mover
+-DCATKIN_DEVEL_PREFIX=/home/rish/newbot/devel -DCMAKE_INSTALL_PREFIX=/home/rish/newbot/install -G Unix Makefiles
